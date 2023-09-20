@@ -1,4 +1,4 @@
-![Header](./![Header](./https://github.com/mo7amedgom3a/mo7amedgom3a/blob/main/github-header-image%20(1).png?raw=true))
+[![mo7amed gom3a GitHub Banner](./github-header-image (1).png)](https://mo7amedgom3a.io)
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/mohamed-gomaa-626a18249/)
