@@ -1,14 +1,13 @@
 ![mo7amed gom3a GitHub Banner](./github-header-image(4).png)
 
-
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohamed-gomaa-626a18249/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/mohamd.gomaa.hamoda/)
 [![facebook Badge](https://img.shields.io/badge/facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/profile.php?id=100011375729397)
 
+
 Hey there 👋
 
-I'm a software engineer who specializes in front-end development. I create beautifully-simple, innovative.
+I'm a software engineer who specializes in full-stack development. I create beautifully-simple, innovative.
 
 Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in/mohamed-gomaa-626a18249/)
 
