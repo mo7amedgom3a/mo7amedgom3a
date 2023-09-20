@@ -10,7 +10,7 @@
 
 Hey there 👋
 
-I'm a software engineer who specializes in full-stack development. I create beautifully-simple, innovative.
+Greetings! I am mohamed gomaa, a passionate software engineer and full stack specialist. With a solid foundation in both frontend and backend development, I possess the skills and expertise to create comprehensive, end-to-end solutions that meet the ever-evolving needs of the digital landscape.
 
 Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in/mohamed-gomaa-626a18249/)
 
