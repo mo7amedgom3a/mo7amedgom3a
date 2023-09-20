@@ -3,6 +3,8 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/mohamed-gomaa-626a18249/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=940081&color=940081)](https://www.instagram.com/mohamd.gomaa.hamoda/)
+[![facebook Badge](https://img.shields.io/badge/facebook-Profile-informational?style=for-the-badge&logo=facebook&logoColor=940081&color=940081)](https://www.facebook.com/profile.php?id=100011375729397)
+
 
 Hey there 👋
 
