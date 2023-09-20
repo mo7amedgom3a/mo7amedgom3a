@@ -1,4 +1,4 @@
-[![mo7amed gom3a GitHub Banner](./github-header-image (1).png)](https://mo7amedgom3a.io)
+[![mo7amed gom3a GitHub Banner](./github-header-image (1).png)]
 
 
 
