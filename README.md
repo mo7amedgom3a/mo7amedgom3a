@@ -60,13 +60,9 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=reactL&logoColor=white&color=61DBFB)
-![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vuedotjs&logoColor=42b883&color=42b883)
-![](https://img.shields.io/badge/Code-Nuxt-informational?style=for-the-badge&logo=nuxtdotjs&logoColor=35495e&color=35495e)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=f7df1e&color=f0db4f)
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=02009c)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4584b6)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=for-the-badge&logo=solidity&logoColor=white&color=343131)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=589636)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=00758f)
 
 <details>
@@ -74,18 +70,8 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=264de4)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=Tailwind-CSS&logoColor=white&color=22d3ee)
-![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&logoColor=white&color=cc6699)
 
 <br>
-
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=white&color=0e1e25)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=CC3534)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=EF5B25)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&logoColor=white&color=a259ff)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=18152E)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=310000)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=for-the-badge&logo=Adobe-XD&logoColor=white&color=f75eee)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=24292e)
 
 </details>
