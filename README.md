@@ -70,10 +70,9 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=264de4)
+![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html&logoColor=white&color=264de4)
 
 <br>
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=24292e)
-
 </details>
 
 <br>
