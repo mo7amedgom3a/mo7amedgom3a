@@ -64,6 +64,7 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=02009c)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4584b6)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=00758f)
+![](https://img.shields.io/badge/Code-devops-informational?style=for-the-badge&logo=devops&logoColor=white&color=61DBFB)
 
 <details>
 <summary>More Skills</summary>
