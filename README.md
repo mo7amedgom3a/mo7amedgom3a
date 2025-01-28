@@ -1,107 +1,27 @@
-![mo7amed gom3a!](./github-header-image(2).png)
+# 💫 About Me:
+👋 Hi, I’m Mohamed Gomaa! I’m a computer science student passionate about Backend, DevOps, and Cloud Computing. <br>
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/mohamed-gomaa-626a18249/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=940081&color=940081)](https://www.instagram.com/mohamd.gomaa.hamoda/)
-[![facebook Badge](https://img.shields.io/badge/facebook-Profile-informational?style=for-the-badge&logo=facebook&logoColor=940081&color=940081)](https://www.facebook.com/profile.php?id=100011375729397)
-[![Gmail contact](https://img.shields.io/badge/gmail-Profile-informational?style=for-the-badge&logo=gmail&logoColor=940081&color=940081)](https://mo7amed.gom3a.7moda@gmail.com)
-[![telegram contact](https://img.shields.io/badge/telegram-Profile-informational?style=for-the-badge&logo=telegram&logoColor=940081&color=940081)](https://t.me/mohamed_Gomaa_hamoda)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mohamed_gomaa77) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100011375729397) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/mohamed-gomaa-626a18249) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mo7amed.gom3a.7moda) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mo7amedgom3a&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mo7amedgom3a&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedgom3a&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Hey there 👋
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mo7amedgom3a&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Greetings! I am mohamed gomaa, a passionate software engineer and full stack specialist. With a solid foundation in both frontend and backend development, I possess the skills and expertise to create comprehensive, end-to-end solutions that meet the ever-evolving needs of the digital landscape.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in/mohamed-gomaa-626a18249/)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mo7amedgom3a&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=mo7amedgom3a&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/mo7amedgom3a/simple_shell">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedgom3a&repo=simple_shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/mo7amedgom3a/School-Management-System">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedgom3a&repo=School-Management-System&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<a href="https://github.com/mo7amedgom3a/Genetic-Algorithm">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedgom3a&repo=Genetic-Algorithm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-
-<a href="https://github.com/mo7amedgom3a/alx-higher_level_programming">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedgom3a&repo=alx-higher_level_programming&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<a href="https://github.com/mo7amedgom3a/Hospital_Management_System">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedgom3a&repo=Hospital_Management_System&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<a href="https://github.com/mo7amedgom3a/alx-low_level_programming">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedgom3a&repo=alx-low_level_programming&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/mo7amedgom3a/monty">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedgom3a&repo=monty&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/mo7amedgom3a/data_structure">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedgom3a&repo=data_structure&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-
-<br>
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/mo7amedgom3a">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedgom3a&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/mo7amedgom3a">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mo7amedgom3a&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=reactL&logoColor=white&color=61DBFB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=f7df1e&color=f0db4f)
-![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=02009c)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4584b6)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=00758f)
-![](https://img.shields.io/badge/Code-devops-informational?style=for-the-badge&logo=devops&logoColor=white&color=61DBFB)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=264de4)
-![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html&logoColor=white&color=264de4)
-
-<br>
-</details>
-
-<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
