@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mohamed Gomaa! I’m a computer science student passionate about Backend, DevOps, and Cloud Computing. <br>
+Hello! I’m Mohamed Gomaa, and I welcome you to my profile. 👋 I am a software engineer specializing in backend development, with a strong focus on building scalable and efficient applications. I enjoy working with DevOps tools and cloud technologies to enhance deployment and manage infrastructure effectively. In addition to my backend expertise, I have a passion for front-end development, allowing me to create full-stack solutions that improve user experiences. My goal is to build robust and maintainable systems that address real-world problems and make a positive impact. Feel free to connect with me to discuss exciting opportunities or collaborations. Let’s create something amazing together! <br>
 
 
 ## 🌐 Socials:
